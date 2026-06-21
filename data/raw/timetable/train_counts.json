@@ -1,0 +1,28 @@
+{
+  "source": "rb47-korntal-heimerdingen-dec-2025.pdf",
+  "valid_from": "2025-12-14",
+  "parsed_by": "manual count from PDF timetable",
+  "counts": {
+    "weekday": {
+      "heimerdingen_to_korntal": 38,
+      "korntal_to_heimerdingen": 38,
+      "total_both_directions": 76,
+      "note": "Excludes 1 school-day-only train (07:07 Heimerdingen, marked S)"
+    },
+    "saturday": {
+      "heimerdingen_to_korntal": 34,
+      "korntal_to_heimerdingen": 34,
+      "total_both_directions": 68
+    },
+    "sunday_holiday": {
+      "heimerdingen_to_korntal": 18,
+      "korntal_to_heimerdingen": 18,
+      "total_both_directions": 36
+    }
+  },
+  "frequency": {
+    "weekday": "30 min (05:05-23:31), last train ~00:05/00:31",
+    "saturday": "30 min (06:05-23:31), last train ~00:05/00:31",
+    "sunday_holiday": "60 min (07:05-00:31)"
+  }
+}

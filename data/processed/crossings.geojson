@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "crossings",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25832" } },
+"features": [
+{ "type": "Feature", "properties": { "crossing_id": "25809061" }, "geometry": { "type": "Point", "coordinates": [ 500562.215527157590259, 5411663.490910266526043 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "59331251" }, "geometry": { "type": "Point", "coordinates": [ 504657.520562967169099, 5412769.140258937142789 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "60622559" }, "geometry": { "type": "Point", "coordinates": [ 506844.746374692884274, 5410654.235592059791088 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "60626988" }, "geometry": { "type": "Point", "coordinates": [ 502369.721833377436269, 5412785.463135717436671 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "75703479" }, "geometry": { "type": "Point", "coordinates": [ 507720.375581928761676, 5408995.990529838949442 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "83466173" }, "geometry": { "type": "Point", "coordinates": [ 508363.334825147176161, 5407996.756889850832522 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "121860743" }, "geometry": { "type": "Point", "coordinates": [ 506797.880754638230428, 5411594.569056913256645 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "124501814" }, "geometry": { "type": "Point", "coordinates": [ 500297.118862069619354, 5412376.167048204690218 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "153234352" }, "geometry": { "type": "Point", "coordinates": [ 500789.536400596436579, 5412641.993783475831151 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "196014624" }, "geometry": { "type": "Point", "coordinates": [ 498998.281343085458502, 5410953.769178239628673 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "196027535" }, "geometry": { "type": "Point", "coordinates": [ 503120.70170445315307, 5412861.667904955334961 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "207121751" }, "geometry": { "type": "Point", "coordinates": [ 507296.555647682049312, 5411025.690500167198479 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "242151467" }, "geometry": { "type": "Point", "coordinates": [ 507104.837750263221096, 5411344.079585986211896 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "248048041" }, "geometry": { "type": "Point", "coordinates": [ 501228.79670208808966, 5412683.236781892366707 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "258543806" }, "geometry": { "type": "Point", "coordinates": [ 506311.907675376918633, 5411949.718721716664732 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "258543931" }, "geometry": { "type": "Point", "coordinates": [ 505155.701935395190958, 5413106.524009754881263 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "300951759" }, "geometry": { "type": "Point", "coordinates": [ 504329.146077837678604, 5412341.955359100364149 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "301592546" }, "geometry": { "type": "Point", "coordinates": [ 505705.946223307575565, 5412595.73302932921797 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "305384200" }, "geometry": { "type": "Point", "coordinates": [ 508248.971501200809143, 5408573.874022716656327 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "318765166" }, "geometry": { "type": "Point", "coordinates": [ 506656.422731756931171, 5411748.225404819473624 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "387493651" }, "geometry": { "type": "Point", "coordinates": [ 506090.041994087863714, 5412305.237273174338043 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "418043323" }, "geometry": { "type": "Point", "coordinates": [ 500048.71445098053664, 5411376.596915075555444 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "7213695043" }, "geometry": { "type": "Point", "coordinates": [ 508350.526461481349543, 5407972.393236453644931 ] } },
+{ "type": "Feature", "properties": { "crossing_id": "8066989170" }, "geometry": { "type": "Point", "coordinates": [ 506823.724179936398286, 5410248.922728423029184 ] } }
+]
+}

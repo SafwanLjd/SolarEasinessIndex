@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25832" } },
+"features": [
+{ "type": "Feature", "properties": { "station_id": "67076423", "name": "Korntal Gymnasium", "railway_type": "halt" }, "geometry": { "type": "Point", "coordinates": [ 508250.644272679230198, 5408623.932823154143989 ] } },
+{ "type": "Feature", "properties": { "station_id": "124383778", "name": "Heimerdingen", "railway_type": "station" }, "geometry": { "type": "Point", "coordinates": [ 498987.38674571341835, 5410949.969390573911369 ] } },
+{ "type": "Feature", "properties": { "station_id": "304367932", "name": "Korntal", "railway_type": "station" }, "geometry": { "type": "Point", "coordinates": [ 508911.489231940766331, 5408177.531330142170191 ] } },
+{ "type": "Feature", "properties": { "station_id": "2274509539", "name": "Hemmingen", "railway_type": "station" }, "geometry": { "type": "Point", "coordinates": [ 502344.522772904310841, 5412770.278778088279068 ] } },
+{ "type": "Feature", "properties": { "station_id": "6532090537", "name": "Schwieberdingen", "railway_type": "station" }, "geometry": { "type": "Point", "coordinates": [ 505243.15097872284241, 5413058.327503039501607 ] } },
+{ "type": "Feature", "properties": { "station_id": "9967757758", "name": "Münchingen", "railway_type": "station" }, "geometry": { "type": "Point", "coordinates": [ 506998.637248944840394, 5411400.660564527846873 ] } },
+{ "type": "Feature", "properties": { "station_id": "9967757759", "name": "Rührberg", "railway_type": "halt" }, "geometry": { "type": "Point", "coordinates": [ 507033.211739656224381, 5410763.875979028642178 ] } }
+]
+}
